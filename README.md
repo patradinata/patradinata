@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo Guys 👋
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 Currently, I studying at Aisyah University Pringsewu<br>🤝 I’m a Front End Web Developer<br>🌱 I’m currently learning React Js and Next Js <br>💬 Ask me about Web Developer and Graphic Design<br>⚡ Asus Tuf and Realme Phone Users
 
