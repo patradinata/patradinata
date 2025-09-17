@@ -7,7 +7,7 @@
 
 ##### 🛠 Tools & Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vuejs,nodejs,express,vite,jquery,bootstrap,tailwindcss,redux,remix,mysql,postgresql,prisma,vercel,firebase,git,github,gitlab,npm,yarn,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,nodejs,express,vite,bootstrap,tailwindcss,redux,remix,mysql,postgresql,prisma,vercel,firebase,git,github,gitlab,npm,yarn,vscode,figma)](https://skillicons.dev)
   
 <img src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/snake.svg" alt="Snake animation" />
 
