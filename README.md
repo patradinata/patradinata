@@ -2,7 +2,7 @@
 
 <!-- ![Patra Dinata](img/github-header-image.png) -->
 
-Good design isn't just about looking cool, but also about how it feels when you use it.
+🎯 Focused on building amazing web experiences
 
 
 ##### 🛠 Tools & Tech Stack
