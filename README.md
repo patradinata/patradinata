@@ -3,6 +3,7 @@
 <!-- ![Patra Dinata](img/github-header-image.png) -->
 
 🎯 Focused on building amazing web experiences
+
 Orang ganteng, keren, kece abis. Masih pemula, gaada jago jagonya. Gatau jagonya kapan. Mending ternak ayam biar financial freedom ..
 
 
