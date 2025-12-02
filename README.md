@@ -9,7 +9,7 @@ Orang ganteng, keren, kece abis. Masih pemula, gaada jago jagonya. Gatau jagonya
 
 ##### 🛠 Tools & Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,nodejs,express,vite,bootstrap,tailwindcss,redux,remix,mysql,postgresql,prisma,vercel,firebase,git,github,gitlab,npm,yarn,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vite,bootstrap,tailwindcss,redux,postgresql,prisma,vercel,firebase,git,github,gitlab,npm,yarn,vscode,figma)](https://skillicons.dev)
   
 <img src="https://raw.githubusercontent.com/fajarfauzian/fajarfauzian/output/snake.svg" alt="Snake animation" />
 
